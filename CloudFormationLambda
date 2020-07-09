@@ -1,0 +1,7 @@
+Prameters:
+  S3BucketParam:
+    type: String
+  S3KeyParam:
+    type: String
+  S3ObjectVersionParam:
+    type: String
