@@ -5,3 +5,5 @@ Prameters:
     type: String
   S3ObjectVersionParam:
     type: String
+
+Resources:
